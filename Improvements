@@ -1,0 +1,18 @@
+Current -    To installed app on mobile and log in to them the user need just email  address after that the app send email in other side to press tab for login,then make back to app home page 
+
+Requested - Add field ‘’password’’ in Sign up form .When the user enters the correct email and password, they will be able to log in.
+             It should also be written on the Log in form , so that a password should be entered during registration and there should be two fields when logging in. 
+Reason   -  The user will save time and will not necessary  to use in external email application
+
+2. 
+ Current - When user enter in application there is only Seribian language in the application .
+Requested -When user press home page in the right side dropdown need to have field ‘’LANGUAGES’’ whit  : Spanish,English,Macedonian languages .
+Reason -   Because we have jobs  Canada and some developers in Serbia don't know Serbian language,they need to use the international . English language.
+
+
+3
+Current -   When user enter to application  don't have profile picture and possibility to add it .
+Requested - When user make registration and enter in tab Profile after tab NAME AND SURNAME need to have one tab SET PICTURE and down will write the size and type(3MB jpg) .When user click on tab have option to take photo of his phone's gallery ex: (" Choose  picture from gallery") After make chose and set picture ,the picture is uploaded whitout crooping
+Reason      User will have a more professional approach and it is good for other side (for companies) to see the application with more information and see the face in the professional picture of candidates.That is optional but in some companies is important to have a  picture .
+
+
