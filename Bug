@@ -1,0 +1,23 @@
+Bug 1
+
+Summary : Register form MOB version . Error messages doesn’t appear after entering invalid email
+ Steps :
+-Open application.
+-Enter invalid email ( for example test@gmail )
+-Click on  ‘’‘Nastavi dalje’’
+Actual Result : The user remains on the same page. The error message does not appear
+Expected result :When user write invalid email and click on "Nastavi dalje" button need to stay on the page and show  error message  "Invalid email address ‘’
+
+
+Bug 2
+
+Summary: WEB .User don’t redirect on google maps after click on address .
+Steps :
+1.Enter on web page https://matchit.rs/candidates?lang=sr
+2.Scroll down
+3.Clik on icon   
+Actual Result : When user go to official web page and click on location ,user stay on page.
+Expected result :When user click on  icon for location, user should be will be redirected to new tab on google maps to get the directions.
+
+
+
