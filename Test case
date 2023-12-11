@@ -1,0 +1,40 @@
+1)
+TEST NAME : LOG IN successful 
+PRECONDITION : Install application Matchit 
+TEST STEPS 
+1.Enter in application Matchit
+2.Enter valid email 
+3.Press “Nastavi dalje”
+4.Open email inbox
+5.Open mail from “Matchit”
+6.Press tab “Prijavi se””
+EXPECTED RESULTS
+1.Application is opened
+2.Email address is visible
+3.User get message to check his email address  for login
+4.Inbox email is opened
+5.Email from Matchit is open
+6.User is redirected to home page of matchit application successful
+
+
+2)
+TEST NAME : TAB ! for informaction
+PRECONDITION : User is logged in 
+TEST STEPS 
+1.Clik on icon  “( ! ) “ on the right side of name of position
+EXPECTED RESULTS
+User is redirected on tab where write ‘’ O kompanii’’ and ‘’O projektu’’
+
+3.
+TEST NAME : User can’t log in with invalid email
+PRECONDITION : Install application Matchit 
+TEST STEPS 
+1.Enter in application Matchit
+2.Enter invalid email
+3.Press “Nastavi dalje”
+
+EXPECTED RESULTS
+1.Application is opened.
+2 Invalid addres is visible and email field is in red color
+3.User is remain on log in page
+
